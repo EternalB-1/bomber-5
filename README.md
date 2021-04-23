@@ -1,7 +1,7 @@
 <h3>#This repository was copied: https://github.com/HuErGa/BoMbEr</h3>
 
 <h2>Out of 100 attempts, I received 2 SMS messages (SMS bomber)</h2>
-<h2>Out of 100 threads, I received 1 SMS messages (SMS bomber V.2)</h2>
+<h2>In 1 minute I received 11 SMS messages (SMS bomber V.2)</h2>
 
 # BoMbEr sms|email|WhatsApp|dos attack
 
